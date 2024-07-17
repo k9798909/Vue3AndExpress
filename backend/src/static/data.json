@@ -1,0 +1,17 @@
+[
+	{
+		"todoItemId": 1,
+		"name": "Job A",
+		"isComplete": false
+	},
+	{
+		"todoItemId": 2,
+		"name": "Job B",
+		"isComplete": true
+	},
+	{
+		"todoItemId": 3,
+		"name": "Job C",
+		"isComplete": false
+	}
+]
